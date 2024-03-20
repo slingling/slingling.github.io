@@ -75,5 +75,5 @@ social:
 highlight_name: true
 ---
 
-Hi friends! I am pursuing a Ph.D. in Computer Science and Technology at Xi'an Jiaotong University, under the mentorship of Professor Rao Yuan. My research is focused on Social Computing, with a particular interest in the prediction and detection of fake news dissemination, as well as social network analysis.
+Hi friends! I am a Ph.D. student in Computer Science and Technology at Xi'an Jiaotong University, under the mentorship of Professor Rao Yuan. My research is focused on Social Computing, with a particular interest in the prediction and detection of fake news dissemination, as well as social network analysis.
 {style="text-align: justify;"}
