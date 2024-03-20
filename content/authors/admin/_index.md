@@ -39,7 +39,7 @@ education:
     - course: Visiting Student
       institution: Carnegie Mellon University
       year: 2024
-    - course: PhD in Computer Science and Technology
+    - course: PhD in Computer Science
       institution: Xi’an Jiaotong University
       year: 2019-
     - course: Visiting Student
